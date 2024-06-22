@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🥊(дави)={0.5x[(Налдо)+(Алине)]}🥊
+
 <!--
 **naldodj/naldodj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
