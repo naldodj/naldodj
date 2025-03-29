@@ -1,11 +1,12 @@
 ## Hi there 👋
-
 🥊(дави)={0.5x[(Налдо)+(Алине)]}🥊
+
+---
 
 ### 🔥 Estatísticas do GitHub
 
 [![Estatísticas do GitHub de Naldo DJ](https://github-readme-stats.vercel.app/api?username=naldodj&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+---
 ### 💼 Projetos em Destaque
 
 - [**naldodj-hb-jsonschema-validator**](https://github.com/naldodj/naldodj-hb-jsonschema-validator)
@@ -23,7 +24,7 @@
 - [**naldodj-embaralha**](https://github.com/naldodj/naldodj-embaralha)
 
 - [**naldodj-hb-duckdns-updater**](https://github.com/naldodj/naldodj-hb-duckdns-updater)
-
+---
 ### 💼 Meus Repositórios 
 
 ```powershell
