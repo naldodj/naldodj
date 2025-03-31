@@ -9,6 +9,8 @@
 ---
 ### 💼 Projetos em Destaque
 
+- [**naldodj-hb-huffman**](https://github.com/naldodj/naldodj-hb-huffman)
+
 - [**naldodj-hb-jsonschema-validator**](https://github.com/naldodj/naldodj-hb-jsonschema-validator)
 
 - [**naldodj-haproxy-windows**](https://github.com/naldodj/naldodj-haproxy-windows)
