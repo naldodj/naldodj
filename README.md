@@ -9,6 +9,8 @@
 ---
 ### 💼 Projetos em Destaque
 
+- [**naldodj-hb-ai-agents**](https://github.com/naldodj/naldodj-hb-ai-agents)
+
 - [**naldodj-hb-huffman**](https://github.com/naldodj/naldodj-hb-huffman)
 
 - [**naldodj-hb-jsonschema-validator**](https://github.com/naldodj/naldodj-hb-jsonschema-validator)
