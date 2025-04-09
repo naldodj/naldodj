@@ -9,6 +9,8 @@
 ---
 ### 💼 Projetos em Destaque
 
+- [**naldodj-hb-httpconnector**](https://github.com/naldodj/naldodj-hb-httpconnector)
+
 - [**naldodj-hb-ai-agents**](https://github.com/naldodj/naldodj-hb-ai-agents)
 
 - [**naldodj-hb-huffman**](https://github.com/naldodj/naldodj-hb-huffman)
