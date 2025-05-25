@@ -11,8 +11,8 @@
 
 
 - [**naldodj-advpl-tlpp-games**](https://github.com/naldodj/naldodj-advpl-tlpp-games)
-  - [**Game15**]()
-  - [**Sudoku**]()
+  - [**Game15**](https://github.com/naldodj/naldodj-advpl-tlpp-games/tree/main/src/game15)
+  - [**Sudoku**](https://github.com/naldodj/naldodj-advpl-tlpp-games/tree/main/src/sudoku)
 - [**naldodj-hb-httpconnector**](https://github.com/naldodj/naldodj-advpl-tlpp-games/tree/main/src/game15)
 
 - [**naldodj-hb-ai-agents**](https://github.com/naldodj/naldodj-hb-ai-agents)
