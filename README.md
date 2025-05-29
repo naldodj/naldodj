@@ -7,8 +7,9 @@
 
 [![Estatísticas do GitHub de Naldo DJ](https://github-readme-stats.vercel.app/api?username=naldodj&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ---
+### 🔒🗂️Quer acesso a todos os códigos fontes? Apoie! 💖 : [Torne-se um Sponsor](https://github.com/sponsors/naldodj) e tenha acesso a repositórios privados e exclusivos!
+---
 ### 💼 Projetos em Destaque
-
 
 - [**naldodj-advpl-tlpp-games**](https://github.com/naldodj/naldodj-advpl-tlpp-games)
   - [**Game15**](https://github.com/naldodj/naldodj-advpl-tlpp-games/tree/main/src/game15)
