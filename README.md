@@ -13,7 +13,7 @@
 - [**naldodj-advpl-tlpp-games**](https://github.com/naldodj/naldodj-advpl-tlpp-games)
   - [**Game15**](https://github.com/naldodj/naldodj-advpl-tlpp-games/tree/main/src/game15)
   - [**Sudoku**](https://github.com/naldodj/naldodj-advpl-tlpp-games/tree/main/src/sudoku)
-    - [**Sudoku MCP Server**](https://github.com/naldodj/naldodj-advpl-tlpp-games/tree/main/src/sudoku/mcp)
+  - [**DNA.Tech.Games MCP Server**](https://github.com/naldodj/naldodj-advpl-tlpp-games/tree/main/src/mcp)
 - [**naldodj-hb-httpconnector**](https://github.com/naldodj/naldodj-advpl-tlpp-games/tree/main/src/game15)
 
 - [**naldodj-hb-ai-agents**](https://github.com/naldodj/naldodj-hb-ai-agents)
