@@ -11,6 +11,7 @@
 ---
 ### 💼 Projetos em Destaque
 
+- [**naldodj-hb-totvs-mcp-stdio**](https://github.com/naldodj/naldodj-hb-totvs-mcp-stdio)
 - [**naldodj-advpl-tlpp-games**](https://github.com/naldodj/naldodj-advpl-tlpp-games)
   - [**Game15**](https://github.com/naldodj/naldodj-advpl-tlpp-games/tree/main/src/game15)
   - [**Sudoku**](https://github.com/naldodj/naldodj-advpl-tlpp-games/tree/main/src/sudoku)
