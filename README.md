@@ -5,7 +5,7 @@
 
 ### 🔥 Estatísticas do GitHub
 
-[![Estatísticas do GitHub de Naldo DJ](https://github-readme-stats.vercel.app/api?username=naldodj&show_icons=true&theme=radical)](https://github.com/naldodj/github-readme-stats)
+[![Estatísticas do GitHub de Naldo DJ](https://github-readme-stats.vercel.app/api?username=naldodj&show_icons=true&theme=radical)](https://github.com/naldodj/naldodj-github-readme-stats)
 ---
 ### 🔒🗂️Quer acesso a todos os códigos fontes? Apoie! 💖 : [Torne-se um Sponsor](https://github.com/sponsors/naldodj) e tenha acesso a repositórios privados e exclusivos!
 ---
