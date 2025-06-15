@@ -17,6 +17,7 @@
   - [**Sudoku**](https://github.com/naldodj/naldodj-advpl-tlpp-games/tree/main/src/sudoku)
   - [**DNA.Tech.Games MCP Server**](https://github.com/naldodj/naldodj-advpl-tlpp-games/tree/main/src/mcp)
 - [**naldodj-hb-httpconnector**](https://github.com/naldodj/naldodj-advpl-tlpp-games/tree/main/src/game15)
+- [**naldodj-DataSul2TotvsProtheus**](https://github.com/naldodj/naldodj-DataSul2TotvsProtheus)
 
 - [**naldodj-hb-ai-agents**](https://github.com/naldodj/naldodj-hb-ai-agents)
 
@@ -55,7 +56,6 @@
 - [**naldodj-clMathLibraries-clFFT**](https://github.com/naldodj/naldodj-clMathLibraries-clFFT)
 - [**naldodj-connecti-nefele4harbour-gep**](https://github.com/naldodj/naldodj-connecti-nefele4harbour-gep)
 - [**naldodj-Dakkers-OpenCL-examples**](https://github.com/naldodj/naldodj-Dakkers-OpenCL-examples)
-- [**naldodj-DataSul2TotvsProtheus**](https://github.com/naldodj/naldodj-DataSul2TotvsProtheus)
 - [**naldodj-embaralha**](https://github.com/naldodj/naldodj-embaralha)
 - [**naldodj-Excel2JSON**](https://github.com/naldodj/naldodj-Excel2JSON)
 - [**naldodj-giobauermeister-OpenCL-test-apps**](https://github.com/naldodj/naldodj-giobauermeister-OpenCL-test-apps)
